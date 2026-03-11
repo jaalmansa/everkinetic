@@ -34,5 +34,8 @@
     "Greg Priday <greg@siteorigin.com> (https://github.com/gregpriday)",
     "Frank Paczynski <frank@solygen.de> (https://github.com/solygen)"
   ],
-  "license": "CC-BY-SA-4.0"
+  "license": "CC-BY-SA-4.0",
+  "dependencies": {
+    "sharp": "^0.34.5"
+  }
 }
